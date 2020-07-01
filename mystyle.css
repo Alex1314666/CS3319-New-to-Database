@@ -1,0 +1,17 @@
+/* set the background color to gainboro */
+body {
+	background-color: gainsboro;
+}
+/* Set the headline1's color to darklategrey */
+h1   {
+	color: darkslategrey;
+}
+/* Set the headline2's color to peru */
+h2   {
+	color: peru;
+}
+/* Keep the paragraph's color black */
+p    {	
+	color: black;
+}
+
